@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="Inicio">Inicio</string>
+    <string name="login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Home_Inicio">Cerrar Sesión</string>
+    <string name="Home_ChatLine">ChatLine</string>
+    <string name="Home_Metricas">Metricas</string>
+    <string name="Home_Configure">Configure</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="etDocumento">Documento</string>
+    <string name="etNombres">Nombres</string>
+    <string name="etApellidos">Apellidos</string>
+
+</resources>
